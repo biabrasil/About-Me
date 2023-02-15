@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @biabrasil
 - 👀 I’m interested in Artificial Intelligence and Creativity, Design and Birding.
-- 🌱 I’m currently learning Next.js, Typescript and Tailwindcss
-- 💞️ I’m looking to collaborate on new projects as a Frontend Developer
+- ✨ My stack is React, React Native, JSX, JavaScript, CSS, Tailwind CSS and C#
+- 🌱 I’m currently learning Next.js, Typescript
+- 💞️ I’m looking to collaborate on new projects as a Frontend Developer or Full Stack Developer
 - 📫 How to reach me: Send me an e-mail at bbia20@outlook.pt
 
 <!---
